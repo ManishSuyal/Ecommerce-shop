@@ -9,7 +9,7 @@ export const LoginSignup = () => {
           <input type="text"  placeholder='Your Name'/>
           <input type="email" placeholder='Email Address' />
           <input type="text" name="" id="Password" />
-
+          
         </div>
         <button>Continue</button>
         <p className="loginsignup-login">Already have an account ? <span>Login here</span> </p>
